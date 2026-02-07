@@ -1,0 +1,3 @@
+console.log("Portfolio website loaded successfully");
+
+alert("Welcome to my portfolio website!");
